@@ -24,7 +24,7 @@ public class KaliTerminalUI extends JFrame {
         setLayout(new BorderLayout());
 
         // Load the background image
-        ImageIcon backgroundImage = new ImageIcon("kali_terminal_bg.png"); // Rename your image file
+        ImageIcon backgroundImage = new ImageIcon("kali_terminal_bg.jpg"); // Rename your image file
         JLabel background = new JLabel(backgroundImage);
         background.setLayout(new BorderLayout());
 
