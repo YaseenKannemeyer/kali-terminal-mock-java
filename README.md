@@ -2,6 +2,9 @@
 
 A Java Swing desktop application that simulates a Linux Kali-style terminal interface. Users can type commands into a styled terminal input field and see output with a realistic prompt, colors, and font styling. Currently supports basic command input and styled terminal output.
 
+![Kali Terminal UI](Example_image.png)
+
+
 ## 📋 Features
 
 - Simulates a Linux-style terminal interface with a green-on-black theme
